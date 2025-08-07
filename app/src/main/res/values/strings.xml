@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyML</string>
+    <string name="imagelabel">imageLabel</string>
+    <string name="select">select</string>
+    <string name="process">process</string>
+    <string name="object_detected">Object Detected</string>
+</resources>
